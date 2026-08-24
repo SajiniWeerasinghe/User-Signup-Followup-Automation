@@ -7,7 +7,7 @@ This project demonstrates how **Google Forms, Google Apps Script, n8n, SMTP, and
 
 ##  Workflow
 
-![Workflow](workflow(2).png)
+![Workflow](workflowimg.png)
 
 ```text
 Google Form
